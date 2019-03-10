@@ -1,4 +1,5 @@
 # vue-h5-template
+封装h5的模板
 
 ## Project setup
 ```
