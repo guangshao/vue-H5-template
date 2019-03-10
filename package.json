@@ -10,6 +10,7 @@
   "dependencies": {
     "cssnano": "^4.1.10",
     "cssnano-preset-advanced": "^4.0.7",
+    "dayjs": "^1.8.9",
     "js-cookie": "^2.2.0",
     "postcss-px-to-viewport": "^1.1.0",
     "postcss-viewport-units": "^0.1.6",
